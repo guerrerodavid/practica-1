@@ -1,4 +1,4 @@
-# Práctica 1 - JD
+# Práctica 1 
 ## Repositorio para practicar ramas en Git
 
 Este repositorio tiene:
